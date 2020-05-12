@@ -1,0 +1,1 @@
+This is a sample 3 page website with specifications from the Responsive Web Design Bootcamp. The specifications can be found here: https://xd.adobe.com/spec/75d448ea-569a-4b7e-721b-9bbd3b2b97b9-03e5/grid/
